@@ -3,4 +3,4 @@ name = Colgadito
 activity_version = 3
 bundle_id = org.somosazucar.hangman
 icon = activity
-exec = sugar-activity activity.Activity
+exec = sugar-activity3 activity.Activity
